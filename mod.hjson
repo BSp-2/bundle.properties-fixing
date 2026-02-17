@@ -1,0 +1,32 @@
+name: rospule
+displayName: 「Rospule」
+author: "[#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫"
+description:
+"
+This is a [unlaunched[]]personal[white[]] Serpulo campaign rework map pack , alongside with personal [sky[]]minor rebalancing[white[]] on certain blocks or units.
+
+This mod's gameplay is based on [sky[]]NORMAL[white[]] difficulty and cannot be changed , a harder version of it will be planned soon in another planet.
+
+This mod contains [sky[]]70[white[]] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched[]]rearranged[white[]] for each level to unlock.
+
+All maps in this mod(map pack) follow [accent[]]CC BY-SA 4.0 License[white[]] (All works are free to use but you must keep the original author, me , sunkenmelody's name).
+
+All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compatible on terrain , wavesets and most contents[white[]].
+
+
+
+[#c5cbff[]]Have fun[white[]].
+
+
+
+Mod by [#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫.
+
+--Credits--
+[#cccccc[]]Coding:Everdusk22
+Sector icon:Seabed
+Music selection:しかみど☆
+Localization(zh_CN):仄井心升
+"
+version: v0.2
+minGameVersion: 154
+subtitle: "[#c5cbff[]]B-Side of Serpulo"
