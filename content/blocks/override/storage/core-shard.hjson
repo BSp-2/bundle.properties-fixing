@@ -1,4 +1,10 @@
-shownPlanets: [serpulo , rospuleball]
+shownPlanets: [rospuleball, serpulo]
 requirements: [
   copper/100
 ]
+research: {
+  planet: rospuleball
+  root: true
+  name: Rospule
+  requiresUnlock: false
+}
