@@ -16,7 +16,7 @@ All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compat
 
 
 [#c5cbff[]]Have fun[white[]].
-Update log: V0.2.2-- Stage 3-4 'Giant Dam' more bug fixes + Stage 3-10 'Dilemma' start base fixes.
+Update log: V0.2.3-- Stage 3-8 'Petroleum Chasm' start loadout graphite increased. + Stage 3-10 'Dilemma' more bug fixes.
 
 
 Mod by [#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫.
@@ -27,6 +27,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Localization(zh_CN):仄井心升
 "
-version: v0.2.2
+version: v0.2.3
 minGameVersion: 155
 subtitle: "[#c5cbff[]]B-Side of Serpulo"
